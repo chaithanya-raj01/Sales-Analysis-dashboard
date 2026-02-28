@@ -23,9 +23,6 @@ It enables stakeholders to:
   - Quarter (Q1–Q4)
   - Year (2016–2019)
 
--
-## 📊 Dashboard Features
-
 ### 1️⃣ Sales by State
 - Bar chart visualization of sales distribution across states
 
@@ -93,11 +90,8 @@ Sales-Analysis-Dashboard/
 
 ---
 
- 👤 Author
- Chaithanya Raj Veludandi
- chaithanyaraj.veludandi@gmail.com
- https://www.linkedin.com/in/chaithanya-raj-veludandi-41b74821b/
- 
+ ##👤 Author
+ Chaithanya Raj VeludandiChaithanya Raj Veludandi Aspiring MIS Executive \ Data analyst | Python | Excel | Power BI | SQL
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star!
