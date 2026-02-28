@@ -1,5 +1,7 @@
 # 📊 Sales Analysis Dashboard (Power BI)
 
+# Dashboard live preview : https://drive.google.com/file/d/1O2ReumtObswq2fzjB2m_-i3LgcZNZi-m/view?usp=sharing
+
 ## 🚀 Project Overview
 This project presents a comprehensive **Sales Analysis Dashboard** built using **Power BI**.  
 The dashboard provides key business insights into sales performance, profitability, and regional distribution.
