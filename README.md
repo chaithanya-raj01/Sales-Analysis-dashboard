@@ -1,1 +1,101 @@
-# Sales-Analysis-dashboard
+# 📊 Sales Analysis Dashboard (Power BI)
+
+## 🚀 Project Overview
+This project presents a comprehensive **Sales Analysis Dashboard** built using **Power BI**.  
+The dashboard provides key business insights into sales performance, profitability, and regional distribution.
+
+It enables stakeholders to:
+- Monitor total sales and profit
+- Analyze sales by state and region
+- Track category performance
+- Compare monthly sales and profit trends
+- Filter results by Quarter and Year
+
+---
+
+## 📌 Key Metrics
+
+- **Total Sales:** 2.30M
+- **Total Profit:** 286.40K
+- Interactive filtering by:
+  - Quarter (Q1–Q4)
+  - Year (2016–2019)
+
+-
+## 📊 Dashboard Features
+
+### 1️⃣ Sales by State
+- Bar chart visualization of sales distribution across states
+
+### 2️⃣ Profit by Region
+- Pie chart breakdown of profit across:
+  - West
+  - East
+  - South
+  - Central
+
+### 3️⃣ Sales by Category
+- Technology
+- Office Supplies
+- Furniture
+
+### 4️⃣ Monthly Sales & Profit Trend
+- Dual-line comparison of:
+  - Monthly Sales
+  - Monthly Profit
+
+---
+
+## 🛠 Tools & Technologies Used
+
+- **Power BI**
+- **Microsoft Excel**
+- Data Modeling
+- DAX (Data Analysis Expressions)
+
+---
+
+## 📂 Repository Structure
+
+Sales-Analysis-Dashboard/
+│
+│   └── sales_data.xlsx
+│
+│   └── Sales_Analysis_Dashboard.pbix
+│
+│   └── dashboard-preview.png
+│
+└── README.md
+
+---
+
+## 🖼 Dashboard Preview
+
+---
+
+## 📥 How to Use
+
+1. Download the `.pbix` file from the `dashboard` folder
+2. Open in **Power BI Desktop**
+3. Refresh data if needed
+4. Explore interactive filters
+
+---
+
+## 📌 Business Insights Derived
+
+- West region generates the highest profit
+- Technology category leads in total sales
+- Sales peak during Q4
+- Monthly trends show consistent growth toward year-end
+
+---
+
+ 👤 Author
+ Chaithanya Raj Veludandi
+ chaithanyaraj.veludandi@gmail.com
+ https://www.linkedin.com/in/chaithanya-raj-veludandi-41b74821b/
+ 
+---
+
+## ⭐ If you found this project useful, consider giving it a star!
